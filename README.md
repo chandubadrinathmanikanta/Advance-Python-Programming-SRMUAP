@@ -1,4 +1,15 @@
 # Advance-Python-Programming-SRMUAP
+
+1. upload the dataset in the Jupiter notebook. 
+
+2. Convert into data frame
+
+3. Do EDA analysis on the data set
+
+4. Apply some preprocessing techniques on the data set  and list all details about the data.
+
+5. Upload Jupiter notebook after doing all EDA analysis with final discussion.
+
 These are the programs that were practiced and given as assignments during MTech
 
 After performing the pre-processing techniques on the provided dataset i.e Cancer detection,below
